@@ -20,7 +20,7 @@ const styles = StyleSheet.create({
   },
 
   titulo:{
-    fontSize: "150%",
+    fontSize: 25,
     fontStyle: "italic",
     marginBottom: 20,
   },
