@@ -33,6 +33,8 @@ export default function App() {
     } else {
       //Vai definir a variável Vazio com o seguinte texto:
       setVazio("Can't be null");
+      //Tornar a variável Resultado, sem nada caso tenha alguma coisa
+      setResultado("");
     }
   };
 
